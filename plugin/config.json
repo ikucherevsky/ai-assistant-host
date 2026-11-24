@@ -1,0 +1,35 @@
+{
+  "name": "AI Assistant Host",
+  "guid": "asc.{B23577B0-9BD5-45E7-A218-1D2F22057BF4}",
+  "version": "0.3.0",
+  "baseUrl": "",
+  "variations": [
+    {
+      "description": "AI Assistant Host · GigaCowork",
+      "url": "index.html?v=20261110-results-2",
+      "icons": [
+        "assets/icon.svg",
+        "assets/icon.svg"
+      ],
+      "isViewer": false,
+      "EditorsSupport": [
+        "word"
+      ],
+      "isVisual": true,
+      "isModal": false,
+      "isInsideMode": true,
+      "initDataType": "text",
+      "initData": "",
+      "buttons": [],
+      "size": [
+        420,
+        700
+      ],
+      "minSize": [
+        340,
+        450
+      ],
+      "initOnSelectionChanged": true
+    }
+  ]
+}

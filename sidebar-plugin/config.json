@@ -1,0 +1,24 @@
+{
+  "name": "AI Assistant Host · кнопка боковой панели",
+  "guid": "asc.{26AD9633-DE82-4527-9B0B-7D5BE6419CA7}",
+  "version": "0.3.0",
+  "baseUrl": "",
+  "variations": [
+    {
+      "description": "AI Assistant Host · кнопка боковой панели",
+      "url": "index.html",
+      "icons": [
+        "../{B23577B0-9BD5-45E7-A218-1D2F22057BF4}/assets/icon.svg"
+      ],
+      "EditorsSupport": [
+        "word"
+      ],
+      "isSystem": true,
+      "isVisual": false,
+      "isViewer": false,
+      "initDataType": "none",
+      "initData": "",
+      "buttons": []
+    }
+  ]
+}
